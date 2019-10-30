@@ -5,8 +5,8 @@ VietAI started building Machine Learning Foundation Class from July 2017. After 
 
 ## Lectures
 This class contains 15 lectures:
-- [Lecture 1: Math Review](slides/Lec 1 - Course Introduction, Math review.pdf)
-- Lecture 2: Python Programming and NumPy
+- [Lecture 1: Math Review](https://github.com/vietai/ml-foundation-class/blob/master/slides/Lec%201%20-%20Course%20Introduction%2C%20Math%20review.pdf)
+- [Lecture 2: Python Programming and NumPy](https://github.com/vietai/ml-foundation-class/blob/master/slides/Lec 2 - Python & NumPy.pdf)
 - Lecture 3: Introduction to Machine Learning and TensorFlow
 - Lecture 4: Linear Regression
 - Lecture 5: Logistic Regression
